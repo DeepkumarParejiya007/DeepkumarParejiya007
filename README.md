@@ -64,10 +64,15 @@ A full-stack recipe and meal planner app designed for nutrition-based planning.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeepkumarParejiya007&show_icons=true&theme=react)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepkumarParejiya007&layout=compact&theme=react)  
-![GitHub Streak](https://streak-stats.demolab.com?user=DeepkumarParejiya007&theme=react)  
-![Visitor Badge](https://komarev.com/ghpvc/?username=DeepkumarParejiya007&style=flat-square)
+<div align="center">
+
+![Deepkumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeepkumarParejiya007&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=00C1D4&icon_color=00C1D4)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepkumarParejiya007&layout=compact&hide_border=true&theme=radical&bg_color=00000000&title_color=00C1D4&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DeepkumarParejiya007&theme=radical&hide_border=true&background=00000000&ring=00C1D4&fire=FF6E6E&currStreakLabel=00C1D4)
+
+</div>
 
 ---
 
