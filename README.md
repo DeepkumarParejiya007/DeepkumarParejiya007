@@ -70,7 +70,7 @@ A full-stack recipe and meal planner app designed for nutrition-based planning.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepkumarParejiya007&layout=compact&hide_border=true&theme=radical&bg_color=00000000&title_color=00C1D4&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DeepkumarParejiya007&theme=radical&hide_border=true&background=00000000&ring=00C1D4&fire=FF6E6E&currStreakLabel=00C1D4)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DeepkumarParejiya007&theme=dark&hide_border=true&ring=00C1D4&fire=FF6E6E&currStreakLabel=00C1D4)
 
 </div>
 
