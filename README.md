@@ -13,16 +13,30 @@ I'm a detail-oriented full-stack web developer passionate about building secure,
 ## 🧰 Tech Stack
 
 **Languages & Databases:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript) ![Java](https://img.shields.io/badge/-Java-red?logo=java) ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp)  
-![Python](https://img.shields.io/badge/-Python-blue?logo=python) ![SQL](https://img.shields.io/badge/-SQL-lightgrey?logo=postgresql) ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb) ![MySQL](https://img.shields.io/badge/-MySQL-00758F?logo=mysql)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
 
 **Frameworks & Libraries:**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)  
-![Express](https://img.shields.io/badge/-Express-black?logo=express) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css) ![Material UI](https://img.shields.io/badge/-MUI-007FFF?logo=mui)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)  
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
 
 **Cloud & DevOps:**  
-![AWS](https://img.shields.io/badge/-AWS-orange?logo=amazon-aws) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase) ![Render](https://img.shields.io/badge/-Render-000000?logo=render)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github) ![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?logo=bitbucket)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
+![Render](https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
 
 ---
 
