@@ -2,7 +2,7 @@
 
 🚀 *Full-Stack Developer | MERN | AWS | AI Integration*  
 🎓 Software Engineering Technician @ Centennial College (GPA: 3.805)  
-📍 Toronto, Canada
+📍 Edmonton, Canada
 
 ---
 
